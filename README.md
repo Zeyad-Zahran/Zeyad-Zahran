@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎯 I'm a **Tech Entrepreneur**, Front-End Developer & Innovator.
+- 🎯 I'm a **Tech Entrepreneur**, Full Stack & AI Developer.
 - 👨‍💻 CEO at **Asterix for Applied Technology**.
 - 🧠 Passionate about AI, Web Dev, and Cybersecurity.
 
