@@ -14,4 +14,4 @@
 
 ---
 
-<p align="center">Zeyad Zahran | CEO @ sard.dev</p>
+<p align="center">Zeyad Zahran | CTO @ sard.dev</p>
