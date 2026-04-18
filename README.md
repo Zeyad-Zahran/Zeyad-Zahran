@@ -10,7 +10,8 @@
 ## 📬 Contact Me
 
 - 📧 `cto@sard.info`
-- 🧠 [Company Website](https://sard.dev)
+- (https://sard.dev)
+- (https://sard.info)
 
 ---
 
